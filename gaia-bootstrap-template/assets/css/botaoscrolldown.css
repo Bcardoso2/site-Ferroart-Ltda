@@ -1,0 +1,16 @@
+a {
+  background: #ddd;
+  color: #444;
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+}
+
+#star {
+  text-align: center;
+  font-size: 100px;
+  line-height: 500px;
+  color: #ddd;
+}
